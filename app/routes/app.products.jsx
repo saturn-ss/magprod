@@ -1,5 +1,4 @@
 import { json } from "@remix-run/node";
-8
 import { useLoaderData } from "@remix-run/react";
 import { authenticate } from "../shopify.server";
 
